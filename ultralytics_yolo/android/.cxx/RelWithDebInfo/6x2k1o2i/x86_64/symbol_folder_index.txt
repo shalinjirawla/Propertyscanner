@@ -1,0 +1,1 @@
+/Users/ctpld494-mm/Documents/darshit/property_scan/build/ultralytics_yolo/intermediates/cxx/RelWithDebInfo/6x2k1o2i/obj/x86_64

@@ -1,0 +1,208 @@
+{
+  "project_info": {
+    "project_number": "867883117967",
+    "project_id": "doctorplus-af9e6",
+    "storage_bucket": "doctorplus-af9e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867883117967:android:21fbc63e66b770f95a2ffa",
+        "android_client_info": {
+          "package_name": "com.app.property_scan_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867883117967-afmmv71n2vell4ik0qfv227pomdhnp7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8laitkGnKxHjtFUO0J57lxB9Xz0qhRd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867883117967-afmmv71n2vell4ik0qfv227pomdhnp7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867883117967:android:cc44df18ff03a5745a2ffa",
+        "android_client_info": {
+          "package_name": "com.capermint.brandpeak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867883117967-528v04u5aqbmk5pnqd63g2lqjvnlcqai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capermint.brandpeak",
+            "certificate_hash": "5eddfbcce0ae97f47e46ef59fc208d381d40cc22"
+          }
+        },
+        {
+          "client_id": "867883117967-afmmv71n2vell4ik0qfv227pomdhnp7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8laitkGnKxHjtFUO0J57lxB9Xz0qhRd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867883117967-afmmv71n2vell4ik0qfv227pomdhnp7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867883117967:android:72a04c90a4bf6f9a5a2ffa",
+        "android_client_info": {
+          "package_name": "com.capermint.doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867883117967-6t524t7amn8tjp8ib8ns2d411vjdv3j5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capermint.doctor",
+            "certificate_hash": "347b0e5feb527cc8898cb97ce07ee71f7d496f1a"
+          }
+        },
+        {
+          "client_id": "867883117967-afmmv71n2vell4ik0qfv227pomdhnp7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8laitkGnKxHjtFUO0J57lxB9Xz0qhRd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867883117967-afmmv71n2vell4ik0qfv227pomdhnp7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867883117967:android:0f9ac305e61e73ba5a2ffa",
+        "android_client_info": {
+          "package_name": "com.capermint.esimtel.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867883117967-afmmv71n2vell4ik0qfv227pomdhnp7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8laitkGnKxHjtFUO0J57lxB9Xz0qhRd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867883117967-afmmv71n2vell4ik0qfv227pomdhnp7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867883117967:android:fdc7250688f6070f5a2ffa",
+        "android_client_info": {
+          "package_name": "com.capermint.patient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867883117967-9j51gi9eoi6fluq9er6mvmsiv7k187q7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capermint.patient",
+            "certificate_hash": "347b0e5feb527cc8898cb97ce07ee71f7d496f1a"
+          }
+        },
+        {
+          "client_id": "867883117967-afmmv71n2vell4ik0qfv227pomdhnp7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8laitkGnKxHjtFUO0J57lxB9Xz0qhRd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867883117967-afmmv71n2vell4ik0qfv227pomdhnp7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867883117967:android:19ad1e8bd10516845a2ffa",
+        "android_client_info": {
+          "package_name": "com.jms.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867883117967-afmmv71n2vell4ik0qfv227pomdhnp7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8laitkGnKxHjtFUO0J57lxB9Xz0qhRd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867883117967-afmmv71n2vell4ik0qfv227pomdhnp7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

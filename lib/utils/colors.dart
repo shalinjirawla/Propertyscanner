@@ -1,0 +1,30 @@
+import 'package:flutter/material.dart';
+
+//var primaryColor = Color(0xff5AA771);
+var primaryColor = Color(0xff5B4FE9);
+const secondaryPrimaryColor = Color(0xfff3f4fa);
+const lightPrimaryColor = Color(0xffebebf7);
+const appBarColor = Color(0xff252730);
+const bottomBarColor = Color(0xff1D1F29);
+const bottomBarTextColor = Color(0xff768AA4);
+const splashTextColor = Color(0xff475569);
+const white = Colors.white;
+const black = Colors.black;
+const grey = Colors.grey;
+const transparentColor = Colors.transparent;
+const lightGrey = Color(0xFF858585);
+const listColor = Color(0xFFEDF2F3);
+const Color success = Color(0xFF10B981);
+const Color textTertiary = Color(0xFF94A3B8);
+
+const borderColor = Color(0xFFEBEBEB);
+const containerColor = Color(0xffE6EFFB);
+const timerColor = Color(0xff1987EB);
+const redButtonColor = Color(0xFFD82121);
+const hintColor = Color(0xFFA2A4AC);
+Color listContainerColor = const Color(0xFFFAFAFA).withOpacity(1);
+const listBorderColor = Color(0xFFFEAEAEA);
+const upcomingTextColor = Color(0xFF1987EB);
+const completedTextColor = Color(0xFFE97E00);
+const liveTextColor = Color(0xFFEB1919);
+Color scaffoldColor = Color(0xFFE5E7EB); //Colors.white.withOpacity(0.9);

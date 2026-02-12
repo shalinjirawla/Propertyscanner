@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/capermint/.pub-cache/hosted/pub.dev/ultralytics_yolo-0.1.36/android/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/capermint/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/capermint/.pub-cache/hosted/pub.dev/ultralytics_yolo-0.1.36/android/.cxx/RelWithDebInfo/2a3b4q6c/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/capermint/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/capermint/.pub-cache/hosted/pub.dev/ultralytics_yolo-0.1.36/android/.cxx/RelWithDebInfo/2a3b4q6c/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "ultralytics::@6890427a1f51a3e7e1df": {
+      "artifactName": "ultralytics",
+      "abi": "x86",
+      "output": "/Users/capermint/Desktop/property_scan/build/ultralytics_yolo/intermediates/cxx/RelWithDebInfo/2a3b4q6c/obj/x86/libultralytics.so",
+      "runtimeFiles": []
+    }
+  }
+}

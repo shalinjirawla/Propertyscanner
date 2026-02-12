@@ -1,0 +1,3 @@
+/Users/ctpld494-mm/Documents/darshit/property_scan/ultralytics_yolo/android/.cxx/Debug/2d6k173a/x86/CMakeFiles/ultralytics.dir
+/Users/ctpld494-mm/Documents/darshit/property_scan/ultralytics_yolo/android/.cxx/Debug/2d6k173a/x86/CMakeFiles/edit_cache.dir
+/Users/ctpld494-mm/Documents/darshit/property_scan/ultralytics_yolo/android/.cxx/Debug/2d6k173a/x86/CMakeFiles/rebuild_cache.dir

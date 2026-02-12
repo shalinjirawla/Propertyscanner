@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/ctpld494-mm/Documents/darshit/property_scan/ultralytics_yolo/android/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/ctpld494-mm/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/ctpld494-mm/Documents/darshit/property_scan/ultralytics_yolo/android/.cxx/Debug/2d6k173a/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/ctpld494-mm/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/ctpld494-mm/Documents/darshit/property_scan/ultralytics_yolo/android/.cxx/Debug/2d6k173a/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "ultralytics::@6890427a1f51a3e7e1df": {
+      "artifactName": "ultralytics",
+      "abi": "arm64-v8a",
+      "output": "/Users/ctpld494-mm/Documents/darshit/property_scan/build/ultralytics_yolo/intermediates/cxx/Debug/2d6k173a/obj/arm64-v8a/libultralytics.so",
+      "runtimeFiles": []
+    }
+  }
+}

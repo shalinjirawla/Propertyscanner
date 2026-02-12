@@ -1,0 +1,5 @@
+# ninja log v5
+0	1193	1765955354158494676	CMakeFiles/ultralytics.dir/native-lib.cpp.o	5ff305b8d647cd8f
+1195	1425	1765955354394007950	/Users/ctpld494-mm/Documents/darshit/property_scan/build/ultralytics_yolo/intermediates/cxx/Debug/2d6k173a/obj/armeabi-v7a/libultralytics.so	ad204874d7cdbfe6
+2	238	1766032970112970786	/Users/ctpld494-mm/Documents/darshit/property_scan/build/ultralytics_yolo/intermediates/cxx/Debug/2d6k173a/obj/armeabi-v7a/libultralytics.so	ad204874d7cdbfe6
+12	317	1767084999386886366	/Users/ctpld494-mm/Documents/darshit/property_scan/build/ultralytics_yolo/intermediates/cxx/Debug/2d6k173a/obj/armeabi-v7a/libultralytics.so	ad204874d7cdbfe6

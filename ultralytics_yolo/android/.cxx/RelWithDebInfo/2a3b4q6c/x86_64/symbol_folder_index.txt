@@ -1,0 +1,1 @@
+/Users/capermint/Desktop/property_scan/build/ultralytics_yolo/intermediates/cxx/RelWithDebInfo/2a3b4q6c/obj/x86_64

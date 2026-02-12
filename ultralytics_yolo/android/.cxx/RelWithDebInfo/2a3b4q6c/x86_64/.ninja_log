@@ -1,0 +1,4 @@
+# ninja log v5
+1	425	1764745017415138586	CMakeFiles/ultralytics.dir/native-lib.cpp.o	75f2e299e8aa9c3b
+427	466	1764745017457006628	/Users/capermint/Desktop/property_scan/build/ultralytics_yolo/intermediates/cxx/RelWithDebInfo/2a3b4q6c/obj/x86_64/libultralytics.so	52b9e316b21f5471
+3	45	1764746481877600386	/Users/capermint/Desktop/property_scan/build/ultralytics_yolo/intermediates/cxx/RelWithDebInfo/2a3b4q6c/obj/x86_64/libultralytics.so	52b9e316b21f5471

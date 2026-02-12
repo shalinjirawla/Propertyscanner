@@ -1,0 +1,1 @@
+/Users/capermint/.pub-cache/hosted/pub.dev/ultralytics_yolo-0.1.36/android/src/main/cpp/CMakeLists.txt
